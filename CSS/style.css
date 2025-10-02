@@ -1,0 +1,13 @@
+/*CSS: Cascading Style Sheets --> Basamaklı Stil Sayfası */
+/* CSS'te 3 farklı yöntem var 
+1-Internal: <head> etiketi içinde <style> etiketi kullanılır
+2-External: Başka bir css uzantılı dosya ile kullanılır
+3-Inline: <body> etiketi içinde style="" özelliği ile kullanılır
+
+*/
+
+
+p{
+    color: blue;
+    font-size: 50px;
+}
